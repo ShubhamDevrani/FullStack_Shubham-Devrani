@@ -1,0 +1,14 @@
+#home{
+    background-color: red;
+}
+#about{
+    background-color: pink;
+}
+#contact{
+    background-color: orange;
+}
+
+*{
+    margin: 0;
+    padding: 8px;
+}
